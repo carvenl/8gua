@@ -1,0 +1,1 @@
+import{f as r}from"./index-a3ed9815.js";import{n as e}from"./alter-7f99709e.js";import"./_plugin-vue_export-helper-1b428a4d.js";const o=r((({app:r})=>{r.config.errorHandler=(r,o,s)=>{e.error(s,r.message),console.error(r)}}));export{o as default};
